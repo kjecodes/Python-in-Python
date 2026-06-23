@@ -1,2 +1,2 @@
 # Python-in-Python
-attempting to explain python in python
+Trying to teach myself python by trying to explain everything about python using python
